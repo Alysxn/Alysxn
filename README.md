@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg" target=”_blank”>
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Oi!+Meu+nome+%C3%A9+Alyson+%3A);Back-end!" alt="Typing SVG" />
 </a>
 </div>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alysonss/"> <img align="bottom" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/alysonss/" target=”_blank” > <img align="bottom" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 
